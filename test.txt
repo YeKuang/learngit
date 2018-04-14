@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+another test
+test merge 
+=======
+another test
+test merge 
+>>>>>>> dev
